@@ -1,2 +1,2 @@
 # Hunger
-Training project
+Learning project
